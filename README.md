@@ -45,6 +45,10 @@ Mac Apps 💻
   - https://www.dropbox.com/ja/downloading
 - GoogleDrive
   - https://www.google.com/intl/ja_ALL/drive/
+- Clipy
+  - https://clipy-app.com/
+- Funter
+  - https://nektony.com/products/funter
   
 ### Productivity
 - Todoist
@@ -64,3 +68,5 @@ Mac Apps 💻
   - https://itunes.apple.com/jp/app/kindle/id302584613?mt=8
 - Google Photos Backup
   - https://photos.google.com/apps?hl=ja
+- Google日本語入力
+  - https://www.google.co.jp/ime/
